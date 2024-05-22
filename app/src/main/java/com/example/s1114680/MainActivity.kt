@@ -54,7 +54,7 @@ fun FirstScreen(navController: NavController) {
     Column(modifier = Modifier
 
     ) {
-        Text(text = "簡介1", color = Color.Blue)
+        Text(text = "簡介", color = Color.Blue)
     }
 }
 
